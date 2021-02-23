@@ -49,6 +49,8 @@ document.querySelector('#generate-password').addEventListener('click', function 
 
 getInteger()
 
+//create a new variable
+//if variable is selected (by the confirm box) add that string to the selected characters variable
   let wantUpper = confirm('Do you want upper characters?')
   if (wantUpper) {
     passwordShouldHave += uppCharacters
@@ -85,17 +87,4 @@ getInteger()
   // let randomIndex = Math.floor(Math.random() * passwordShouldHaveArray.length)
 
   document.querySelector("#password").value = password;
-  console.log(password);
 })
-
- // have button
- // get clicked
- // when clicked ask user for if they want uppp lower
- // generate
- // click event for HTML button
- // ask user with promps
- // generate
-	// concatinated a big string of all options would work
-	// pick from string randomly. Math.random()
-	// 
-

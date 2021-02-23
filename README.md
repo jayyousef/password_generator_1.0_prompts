@@ -10,8 +10,7 @@ This web application will allow you to choose
         -Numbers
         -Special Characters
         
-       
-       /Users/jyousef/Desktop/Password Generator - WashU - homework/password_generator_1.0_prompts/Password generator home page.png
+![image of main site](./Assets/passwordgeneratorhomepage.png)
 
 ## Who is this project for?
 
